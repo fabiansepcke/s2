@@ -6,14 +6,16 @@
 
 # Exclude from Release
 # ============
-/Testing export-ignore
+.gitattributes export-ignore
+.gitignore export-ignore
+#README.md export-ignore
+Testing export-ignore
 *.sxl.r* export-ignore
 *.mdl.r* export-ignore
 
 # Source files
 # ============
 *.m             text
-*.mu            text
 
 # Binary files
 # ============
