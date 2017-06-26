@@ -10,7 +10,7 @@
 .gitignore export-ignore
 #README.md export-ignore
 Testing export-ignore
-*.sxl.r* export-ignore
+*.slx.r* export-ignore
 *.mdl.r* export-ignore
 
 # Source files
